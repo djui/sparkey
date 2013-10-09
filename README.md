@@ -1,6 +1,6 @@
 Sparkey is a simple constant key/value storage library. It is mostly suited for
 read heavy systems with infrequent large bulk inserts. It includes both a C
-library for working with sparkey index and log files (`libsparkey`), and a
+library for working with sparkfdfdsey index and log files (`libsparkey`), and a
 command line utility for getting info about and reading values from a sparkey
 index/log (`sparkey`).
 
